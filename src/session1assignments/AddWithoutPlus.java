@@ -14,7 +14,7 @@ public class AddWithoutPlus
 	{
 		Scanner s = new Scanner(System.in); // To read the inputs using Scanner object s
 		int x, y, sum; // Declaration of x, y and sum
-		System.out.println("Enter the numbers to be added"); // Inputs to be entered from keyboard
+		System.out.println("Enter the two numbers to be added"); // Inputs to be entered from keyboard
 		x = s.nextInt(); // Takes the value of x
 		y = s.nextInt(); // Takes the value of y
 		s.close(); // Scanner s closed
